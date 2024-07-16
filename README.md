@@ -5,7 +5,9 @@ PaperScrapper is an AI based paper search engine
 ## Key Features
 
 [ ] Web Crawler: crawls major paper archives and retrieves relevant papers based on user's keyword.
+
 [ ] Google Sheet Integration: upload a summary of retrieved paper to a designated Google Sheet using Google API.
+
 [ ] Recommendation Feature: Recommend possible improvement of the retrieved papers.
 
 ## QuickStart
